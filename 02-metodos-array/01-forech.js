@@ -1,6 +1,6 @@
 const frutas =["Maça", "Banana", "Uva"]
 
-for (let i = 1, i < frutas.length; i++){
+for (let i = 1; i < frutas.length; i++){
     console.log(`${frutas[i]}`)
 }
 
