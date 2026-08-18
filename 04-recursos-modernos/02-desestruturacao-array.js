@@ -1,3 +1,5 @@
 const linguagens = ["JAvaScript", "C#", "Python"];
 
-const [primeira, segunda];
+const [primeira, segunda] = linguagens
+
+console.log(primeira, segunda);
